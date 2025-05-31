@@ -155,7 +155,6 @@ Steps
 
 <p float="center">
   <img src="https://github.com/poohb0321/Open_Threat_Research_for_a_small_business_network/blob/db2c8f880e3078697c3515ea5d12ead6cb3e0c56/images/Picture9.png" width="450" alt="imag5">
-<img src="" alt="imag6">
 </p>
 
 ---
